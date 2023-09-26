@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 2em;
+}
+
+.primotitolo {
+  display: flex;
+  color: red;
+  justify-content: center;
+}
+
+ul#menu li {
+  float: left;
+  list-style: none;
+  padding: 2px;
+}
+
+.paragrafo {
+  font-family: cursive;
+}
+
+#tabella {
+  color: black;
+  background-color: rgb(164, 150, 212);
+}
+
+#footer {
+  background-color: black;
+  color: white;
+}
